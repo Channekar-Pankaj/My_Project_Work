@@ -1,0 +1,1 @@
+{"name": "test_css_locators[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1783248372432, "stop": 1783248397408, "uuid": "eb24f05f-d814-4feb-8dd5-e838725a556d", "testCaseId": "fee26ed54d181aad395e8fc2d35ed4a6", "fullName": "tests.test_css_locators#test_css_locators", "titlePath": ["tests", "test_css_locators.py"]}

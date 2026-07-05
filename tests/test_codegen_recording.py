@@ -1,8 +1,8 @@
 import re
 import pytest
-from playwright.sync_api import Page, expect
+from playwright.sync_api import Page, expect, sync_playwright
 
-@pytest.mark.skip
+#@pytest.mark.skip
 def test_example(page: Page) -> None:
     page.goto("https://www.myntra.com/")
     page.get_by_role("img").nth(1).click()

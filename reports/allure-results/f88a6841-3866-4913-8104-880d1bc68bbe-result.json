@@ -1,0 +1,1 @@
+{"name": "test_example[chromium]", "status": "skipped", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1782552587557, "stop": 1782552587557, "uuid": "55c8255c-2e81-443a-a3a2-9bcb119ae07c", "testCaseId": "a381fd8829ee65845beac1c7571fba9f", "fullName": "tests.test_codegen_recording#test_example", "titlePath": ["tests", "test_codegen_recording.py"]}
